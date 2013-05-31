@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = CecrecySettings;
+		cell = PSLinkCell;
+		detail = "CecrecySettingsListController";
+		icon = "CecrecySettings.png";
+		isController = 1;
+		label = Cecrecy;
+	};
+}

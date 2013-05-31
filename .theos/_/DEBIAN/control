@@ -1,0 +1,10 @@
+Package: com.andyibanez.cecrecy
+Name: Cecrecy
+Depends: mobilesubstrate, applist(>=1.5.1), firmware(>=6.0), libhide
+Version: 1.0.0-10
+Architecture: iphoneos-arm
+Description: Protect your privacy - rather than locking apps with a passcode, this tweak can hide them altogether.
+Maintainer: Andy Ibanez
+Author: Andy Ibanez
+Section: Tweaks
+Installed-Size: 40
