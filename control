@@ -3,7 +3,7 @@ Name: Cecrecy
 Depends: mobilesubstrate, applist(>=1.5.1), firmware(>=6.0), libhide
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Protect your privacy - rather than locking apps with a passcode, this tweak can hide them altogether.
+Description: Protect your privacy - rather than locking apps with a passcode, this tweak can hide them altogether. The tweak comes bundled with an SBSettings toggle that can be locked with a passcode to toggle the tweak on and off. Developers can write their own toggles for this tweak.
 Maintainer: Andy Ibanez
 Author: Andy Ibanez
 Section: Tweaks
